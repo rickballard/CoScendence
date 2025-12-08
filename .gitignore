@@ -1,0 +1,5 @@
+# CoScendence .gitignore v1
+*.log
+*.tmp
+*.DS_Store
+Thumbs.db
